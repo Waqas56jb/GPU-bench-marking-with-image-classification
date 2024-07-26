@@ -1,6 +1,6 @@
 # 👗 Fashion MNIST Image Classification
 
-🔗 **GitHub Repo Link:** [https://github.com/Waqas56jb/FashionMNIST](https://github.com/Waqas56jb/FashionMNIST)
+🔗 **GitHub Repo Link:** https://github.com/Waqas56jb/GPU-bench-marking-with-image-classification
 
 ## 📜 Description
 I am excited to share my recent project where I developed a neural network model to classify images from the Fashion MNIST dataset. This project demonstrates the practical application of machine learning techniques in image classification, showcasing the power and flexibility of neural networks.
